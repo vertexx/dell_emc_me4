@@ -1,4 +1,4 @@
-Dell EMC PowerVault ME4 Zabbix Template
+Dell EMC PowerVault ME4 Zabbix SNMP Template
 
 Dependencies:
 - Generic SNMP
